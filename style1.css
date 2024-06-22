@@ -1,0 +1,85 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #232f3e;
+            padding: 10px;
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+        }
+        .header .logo {
+            display: flex;
+            align-items: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .header .logo img {
+            width: 50px; /* Adjust as needed */
+            height: auto;
+            margin-left: 10px;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            background-color: #f3f3f3;
+            padding: 10px;
+        }
+        .navbar a {
+            color: black;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .categories {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 20px;
+        }
+        .category {
+            text-align: center;
+        }
+        .category img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+        .promo-banner {
+            background-color: red;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .promo-banner a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer {
+            background-color: #232f3e;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        .clothing-section {
+            margin-bottom: 20px;
+        }
+        .clothing-item {
+            text-align: center;
+        }
+        .clothing-item img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
