@@ -22,7 +22,7 @@ Open `susmitha.html` in a web browser to view the website locally.
 
 ## Usage
 
-1. Open `index.html` in any web browser.
+1. Open `susmitha.html` in any web browser.
 2. Navigate through different categories using the navigation bar.
 3. Click on items to view more details or navigate to other sections.
 
