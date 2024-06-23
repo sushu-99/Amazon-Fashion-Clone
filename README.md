@@ -6,7 +6,7 @@ A responsive mock-up of an Amazon Fashion website using HTML,CSS and Javascript
 - **Header and Navigation**: Includes Amazon logo, sign-in links, and a responsive navigation bar.
 - **Categories**: Clickable cards for Men's Clothing, Women's Clothing, Footwear, etc.
 - **Promotional Banner**: Highlighting an end-of-season sale with a call-to-action button.
-- **Clothing Sections**: Displays images for Men's Clothing, Women's Clothing, Shoes, etc.
+- **Clothing Sections**: Displays images for Men's Clothing, Women's Clothing, Shoes.
 - **Footer**: Contains copyright information.
 
 
