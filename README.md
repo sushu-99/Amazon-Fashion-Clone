@@ -9,6 +9,9 @@ A responsive mock-up of an Amazon Fashion website using HTML,CSS and Javascript
 - **Clothing Sections**: Displays images for Men's Clothing, Women's Clothing, Shoes.
 - **Footer**: Contains copyright information.
 
+  ![image](https://github.com/sushu-99/Amazon-Fashion-Clone/assets/132267021/7e5d6a85-10eb-4552-ba24-0aeae5f772bf)
+  
+
 
 ## Installation
 
