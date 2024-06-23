@@ -11,6 +11,8 @@ A responsive mock-up of an Amazon Fashion website using HTML,CSS and Javascript
 
   ![image](https://github.com/sushu-99/Amazon-Fashion-Clone/assets/132267021/7e5d6a85-10eb-4552-ba24-0aeae5f772bf)
   ![image](https://github.com/sushu-99/Amazon-Fashion-Clone/assets/132267021/7ef7edfe-2593-455d-8ff5-137c61b30e6f)
+  ![image](https://github.com/sushu-99/Amazon-Fashion-Clone/assets/132267021/0f36ec99-42ea-4c48-b293-be00e9754d6e)
+  
   
   
 
